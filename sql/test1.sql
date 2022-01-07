@@ -1,0 +1,1 @@
+INSERT INTO `study4article.temp.a1` VALUES(1,2,4);
